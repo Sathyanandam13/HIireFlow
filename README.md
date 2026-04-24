@@ -257,7 +257,23 @@ The system ensures:
 
 ---
 
-#  API Endpoints
+# 📸 Application Screenshots
+
+## Welcome & Role Selection
+![Welcome to HireFlow](./assets/welcome.png)
+*Users are funneled cleanly into their specific application workflows based on their role.*
+
+## Company Dashboard & Pipeline Management
+![Company Dashboard](./assets/company-dashboard.png)
+*Companies can track active pipeline slots, visualize the waitlist queue, and seamlessly execute accept/reject operations.*
+
+## Applicant Portal
+![Applicant Portal](./assets/applicant-dashboard.png)
+*Applicants get real-time tracking on their applied jobs, including numeric Waitlist Queue position updates.*
+
+---
+
+# 🔌 API Endpoints
 
 ## Auth
 
