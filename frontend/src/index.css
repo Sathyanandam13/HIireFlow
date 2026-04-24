@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-status-pending: #FBBF24;
+  --color-status-active: #10B981;
+  --color-status-waitlist: #3B82F6;
+  --color-status-rejected: #EF4444;
+}
