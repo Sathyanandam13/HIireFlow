@@ -260,14 +260,14 @@ The system ensures:
 # 📸 Application Screenshots
 
 ## Welcome & Role Selection
-![alt text](image.png)
+![Welcome Screen](./screenshots/image.png)
 
 
 ## Company Dashboard & Pipeline Management
-![alt text](image-1.png)
+![Company Dashboard](./screenshots/image-1.png)
 
 ## Applicant Portal
-![alt text](image-2.png)
+![Applicant Portal](./screenshots/image-2.png)
 
 ---
 
